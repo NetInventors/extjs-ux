@@ -1,0 +1,16 @@
+{
+    "name": "ni-jmatthiesen/extjs-ux",
+    "description": "Plugins and Extensions for EXT JS 4",
+    "type": "component",
+    "homepage": "http://harrydeluxe.github.com/extjs-ux/",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "files": [
+                "ux/**"
+            ]
+        }
+    }
+}
